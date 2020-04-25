@@ -1,0 +1,4 @@
+export COIN=ETH
+export NETWORK="PP Net"
+export LOGO="images/ParallelPolis.svg"
+export ETHEREUM_JSONRPC_VARIANT=Parity
